@@ -8,6 +8,7 @@
   <li>Log one task at a time, run and exit</li>
   <li>Categorize entries your way</li>
   <li>Track time spent per task (HH:MM)</li>
-  <li>Persistent local storage via CSV</li>
+  <li>Local storage via CSV</li>
+  <li>Read logged tasks</li>
 </ul>
 <p><b>Tech Stack:</b> Python</p>
