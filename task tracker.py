@@ -40,8 +40,7 @@ def menu():
         return False
     else:
         print("Invalid choice.")
-        menu()
+    return True
 
-run=True        
-while(menu()):
+while menu():
     pass
