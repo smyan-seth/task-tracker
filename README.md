@@ -10,5 +10,6 @@
   <li>Track time spent per task (HH:MM)</li>
   <li>Local storage via CSV</li>
   <li>Read logged tasks</li>
+  <li>Edit logged tasks</li>
 </ul>
 <p><b>Tech Stack:</b> Python</p>
